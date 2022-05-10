@@ -26,6 +26,8 @@ export class PokemonDetailComponent implements OnInit {
     }
   };
 
+  radarChartData: any = [];
+
   constructor(
     private route: ActivatedRoute,
   ) { }

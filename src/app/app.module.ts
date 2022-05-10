@@ -9,7 +9,6 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatCardModule } from '@angular/material/card';
 import { PokemonDetailComponent } from './pokemon-detail/pokemon-detail.component';
 import { TypePipe } from './pipes/type.pipe';
-import { NgChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [
